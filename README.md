@@ -1,0 +1,11 @@
+RPG Maker mz 的插件
+ButtonPicture：用图片代替按钮
+Community_Lighting_MZ：黑暗中的手电筒效果
+CGMZ_Core：CGMZ系列插件的核心
+CGMZ_SplashScreen：游戏一开始的播片插件
+CGMZ_InfiniteColors：增加游戏中文本颜色的显示效果
+CGMZ_Crafting：道具制作和合成
+PluginCommonBase
+DevToolsManage
+NUUN_ItemBook：道具图鉴
+2D_Cat_OldFilmFilter：老电影效果插件
